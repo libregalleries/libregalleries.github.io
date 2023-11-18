@@ -10,4 +10,4 @@ To make the license more clear:
 
 For special cases, a license for Artificial Intelligence (AI) use has been written personally by myself on
 
-[Artificial Intelligence (AI) License]([https://www.example.com](https://github.com/libregalleries/libregalleries.github.io/blob/main/artificial-intellegent_license)https://github.com/libregalleries/libregalleries.github.io/blob/main/artificial-intellegent_license)
+[Artificial Intelligence (AI) License](https://github.com/libregalleries/libregalleries.github.io/blob/main/artificial-intellegent_license)
